@@ -1,0 +1,16 @@
+ 1038  git status
+ 1039  git commit -m"Class Material day 2"
+ 1040  git push
+ 1041  cd ../
+ 1042  cp -r ~/Documents/clean/FinTech-Lesson-Plans/01-Lesson-Plans/02-Python .
+ 1043  ls
+ 1044  cd 02-Python
+ 1045  ls
+ 1046  git add Supplemental 
+ 1047  git commit -m"Install for Conda"
+ 1048  git push
+ 1049  python
+ 1050  vi someFile.py
+ 1051  python someFile.py
+ 1052  clear
+ 1053  history
