@@ -7,14 +7,16 @@
 * 04-Career Services
 * 05-Student Resources
 
-## Instructional Staff
-**Student Services Manager ("SSM")**: Elizabeth Walsh, ewalsh@2u.com
+<br>
 
-**Instructor**: Daniel Blanco, dblanco@instructors.2u.com
+## Instructional Staff:
 
+
+### **Instructor**: Daniel Blanco, dblanco@instructors.2u.com<p>
+<br>
+
+**Student Services Manager ("SSM")**: Elizabeth Walsh, ewalsh@2u.com<p>
 **Teacher Assistant ("TA")**: Louise Lee, llee1@2u.com
-<br>
-<br>
 <br>
 <br>
 <br>
